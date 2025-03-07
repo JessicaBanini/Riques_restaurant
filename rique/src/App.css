@@ -94,15 +94,18 @@ background-color: #79541e;
 color: #ffffff;
 }
 
-/* .booktable-container{
+.booktable_container{
+  position: absolute;
+  top: 30rem;
   border: #ff9c07 solid 3px !important;
-  width: 100rem;
+  width: 100%;
   height: 100rem;
   display: flex;
   justify-content: center;
   align-items: center;
   color: red;
-} */
+  font-family: "Chillax";
+}
 
 
 @media only screen and (min-width: 0px) and (max-width:1024px) {

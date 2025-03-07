@@ -2,7 +2,11 @@ import React from 'react'
 
 function Bookatable() {
   return (
-    <div>Bookatable</div>
+    <>
+    
+        <div className='bookatable_container'>Bookatable</div>
+   
+    </>
   )
 }
 
